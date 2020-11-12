@@ -16,4 +16,4 @@ cat rosepine.txt >> ~/.minttyrc
 
 ### Screenshots
 
-Screenshot coming soon...
+![preview](https://cdn.discordapp.com/attachments/767172954395639811/776239764290535424/unknown.png)
