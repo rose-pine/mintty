@@ -10,7 +10,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-1. Download `rosepine.minttyrc`
+Append the contents of `rosepine.minttyrc` to your `.minttyrc`.
 
 ```sh
 cat rosepine.minttyrc >> ~/.minttyrc
