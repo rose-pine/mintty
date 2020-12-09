@@ -19,3 +19,7 @@ cat rosepine.minttyrc >> ~/.minttyrc
 ## Screenshots
 
 ![Mintty with Rosé Pine](https://cdn.discordapp.com/attachments/767172954395639811/776239764290535424/unknown.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
